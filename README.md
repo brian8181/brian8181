@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**brian8181/brian8181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)/brian8181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
